@@ -1,0 +1,24 @@
+	--: Introduction :--
+
+1.) What is Operating System
+2.) Types of OS
+	a. Batch OS
+	b. Time sharing OS
+	c. Distributed OS
+	d. Network OS
+
+3.) Multiprogramming, Multiprocess, Multitasking, Multithreading
+4.) Process vs Programs
+5.) Process state
+6.) Process Control Block(PCB)
+7.) Threads
+8.) 32bit vs 64bit process
+
+	--: CPU Scheduling :--
+
+1.) Scheduling Algorithms
+	a. First come first serve(FCFS)
+	b. Shortest Job First(SJF)
+	c. Priority Scheduling
+	d. Round Robin Scheduling
+2.) Inter Process Communication(IPC)
