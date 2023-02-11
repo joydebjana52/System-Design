@@ -22,3 +22,6 @@
 	c. Priority Scheduling
 	d. Round Robin Scheduling
 2.) Inter Process Communication(IPC)
+
+
+Process -> Threads -> State -> Scheduling -> IPC -> Synchronization -> 
